@@ -1,6 +1,6 @@
 # jpa01-SagnikBiswasUCSB
 
-Deployed at: http://jpa01-sagnikbiswasucsb.dokku-11.cs.ucsb.edu
+Deployed at: https://jpa01-sagnikbiswasucsb.dokku-11.cs.ucsb.edu/
 
 
 # About this repo
